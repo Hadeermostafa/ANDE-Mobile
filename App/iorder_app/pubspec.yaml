@@ -1,0 +1,105 @@
+name: ande_app
+description: A new Flutter application.
+
+
+version: 2.0.9+34
+
+environment:
+  sdk: ">=2.10.1 <3.0.0"
+
+dependencies:
+  youtube_player_iframe: ^1.1.0
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: 0.1.3
+  intl: 0.16.1
+  http: 0.12.1
+  flutter_bloc: 4.0.0
+  rxdart: 0.24.1
+
+
+  fluttertoast: 3.1.3
+  smooth_star_rating:
+  intl_translation: 0.17.10
+  equatable: 1.2.0
+  rflutter_alert: 1.0.3
+  hidden_drawer_menu: 2.0.1
+  flutter_staggered_animations: 0.1.2
+  material_design_icons_flutter: 4.0.5345
+  modal_progress_hud: 0.1.3
+  flutter_slidable: 0.5.4
+  configurable_expansion_tile: 1.0.0
+  flutter_swiper: 1.1.6
+  device_preview: 0.4.5
+  auto_size_text: 2.1.0
+  firebase_crashlytics: 0.4.0+1
+  libphonenumber: 1.0.1
+  easy_localization: 2.3.2
+  flare_flutter: 2.0.4
+#  pull_to_refresh: 1.6.0
+  cached_network_image: 2.2.0+1
+  firebase_messaging: ^8.0.0-dev.14
+  firebase_analytics: 7.0.1
+  firebase_auth: 0.20.0+1
+  flutter_facebook_login: 3.0.0
+  chewie: 0.9.10
+  video_player: 0.10.11+2
+#  international_phone_input: 1.0.4
+  firebase_dynamic_links: 0.7.0+1
+  firebase_core: 0.7.0
+  qr_code_scanner: 0.3.5
+  flutter_webview_plugin: 0.3.11
+  apple_sign_in: 0.1.0
+  flutter_svg: ^0.19.1
+
+  flutter_twitter_login:
+    git: git://github.com/eudangeld/flutter_twitter_login.git
+
+  permission_handler: 5.0.1+1
+  package_info: 0.4.3+4
+
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.7.3"
+  intl:
+  flutter_driver:
+    sdk: flutter
+  test: any
+
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/images/ic_launcher.jpg"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/images/
+    - assets/locale/
+    - assets/flr/
+    - assets/
+    - assets/images/flags/
+
+
+  fonts:
+    - family: arial
+      fonts:
+        - asset: assets/fonts/arial_bold.TTF
+          weight: 700
+        - asset: assets/fonts/arial_meduim.ttf
+
+    - family: Droid Arabic Kufi
+      fonts:
+            - asset: assets/fonts/ArbFONTS-DroidKufi-Regular.ttf
+              weight: 700
+            - asset: assets/fonts/ArbFONTS-DroidKufi-Bold.ttf
+
+
+    - family:  CustomIcons
+      fonts:
+        - asset: assets/fonts/CustomIcons.ttf

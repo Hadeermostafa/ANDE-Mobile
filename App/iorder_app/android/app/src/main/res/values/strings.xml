@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ande</string>
+    <string name="facebook_app_id">575068343100965</string>
+    <string name="fb_login_protocol_scheme">fb575068343100965</string>
+</resources>

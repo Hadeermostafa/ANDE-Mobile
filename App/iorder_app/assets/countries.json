@@ -1,0 +1,26 @@
+[
+  {
+    "num_code": "818",
+    "alpha_2_code": "EG",
+    "alpha_3_code": "EGY",
+    "en_short_name": "Egypt",
+    "nationality": "Egyptian",
+    "dial_code": "+20"
+  },
+  {
+    "num_code": "124",
+    "alpha_2_code": "CA",
+    "alpha_3_code": "CAN",
+    "en_short_name": "Canada",
+    "nationality": "Canadian",
+    "dial_code": "+1"
+  },
+  {
+    "num_code": "840",
+    "alpha_2_code": "US",
+    "alpha_3_code": "USA",
+    "en_short_name": "United States of America",
+    "nationality": "American",
+    "dial_code": "+1"
+  }
+]

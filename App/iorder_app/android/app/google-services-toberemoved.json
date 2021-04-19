@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "581853880098",
+    "firebase_url": "https://ande-ecf08.firebaseio.com",
+    "project_id": "ande-ecf08",
+    "storage_bucket": "ande-ecf08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581853880098:android:43701a8c90e19fe2e64f7b",
+        "android_client_info": {
+          "package_name": "com.mobidevlabs.ande"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581853880098-41qdl7f3m9ufuoh61l8k19m6kfe8bbsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobidevlabs.ande",
+            "certificate_hash": "ff977b79eca7250655c06b49e8b2df5d55a5793b"
+          }
+        },
+        {
+          "client_id": "581853880098-d0u8qv0uni60885t8hr5uh4k1mcut1qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobidevlabs.ande",
+            "certificate_hash": "94d58de6e3ae060d57a82bace72dc9f79b9e440b"
+          }
+        },
+        {
+          "client_id": "581853880098-kuklt47bk8ovu6mnioq36h04ggrpnp3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qqzGanfSm9jtkFD4fjDE6huRFapfHYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581853880098-kuklt47bk8ovu6mnioq36h04ggrpnp3b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581853880098-bc2og7ot7hs9ab755b7h2ktccjgnqcdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobidevlabs.ande"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581853880098:android:e11acfff4d55a138e64f7b",
+        "android_client_info": {
+          "package_name": "com.mobidevlabs.ande.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581853880098-48nid8q4ip0atv5s7uckc0m9r5498uvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobidevlabs.ande.debug",
+            "certificate_hash": "94d58de6e3ae060d57a82bace72dc9f79b9e440b"
+          }
+        },
+        {
+          "client_id": "581853880098-kuklt47bk8ovu6mnioq36h04ggrpnp3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qqzGanfSm9jtkFD4fjDE6huRFapfHYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581853880098-kuklt47bk8ovu6mnioq36h04ggrpnp3b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581853880098-bc2og7ot7hs9ab755b7h2ktccjgnqcdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobidevlabs.ande"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581853880098:android:5e6c7b4a123b1b55e64f7b",
+        "android_client_info": {
+          "package_name": "com.mobidevlabs.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581853880098-afsvev8p0r9te87ra8i7cea4kro4ornq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobidevlabs.flutter_app",
+            "certificate_hash": "ff977b79eca7250655c06b49e8b2df5d55a5793b"
+          }
+        },
+        {
+          "client_id": "581853880098-kuklt47bk8ovu6mnioq36h04ggrpnp3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qqzGanfSm9jtkFD4fjDE6huRFapfHYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581853880098-kuklt47bk8ovu6mnioq36h04ggrpnp3b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581853880098-bc2og7ot7hs9ab755b7h2ktccjgnqcdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobidevlabs.ande"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

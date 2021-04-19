@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "148011500042",
+    "firebase_url": "https://iorder-5246c.firebaseio.com",
+    "project_id": "iorder-5246c",
+    "storage_bucket": "iorder-5246c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148011500042:android:3e404803f02ca5eafad5f3",
+        "android_client_info": {
+          "package_name": "com.mobidevlabs.ande"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148011500042-h33u1slu5m037hde0u7p16to8dm0bn1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQ-x-kHXzDB0a03GMhQ7O_gGyWQ7OSZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148011500042-h33u1slu5m037hde0u7p16to8dm0bn1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148011500042-80kcrmcpgbhi4j1kjigh26j8c78feek9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobidevlabs.iorderApp",
+                "app_store_id": "1482908182"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148011500042:android:0d642faf4cf85498fad5f3",
+        "android_client_info": {
+          "package_name": "com.mobidevlabs.iorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148011500042-9t0tdqbe58u38evnm5rfvk61d3v9lhq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobidevlabs.iorder",
+            "certificate_hash": "9747cb708ecb1726f9ba5bd9163334cdae8dc1c7"
+          }
+        },
+        {
+          "client_id": "148011500042-l8dk5q5v2ehhtspu37ohsrnufhs2c2rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobidevlabs.iorder",
+            "certificate_hash": "ff977b79eca7250655c06b49e8b2df5d55a5793b"
+          }
+        },
+        {
+          "client_id": "148011500042-h9o22otelvm4gb9vkr8q3kkvho5k8arc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobidevlabs.iorder",
+            "certificate_hash": "f19ced725ff91ffaa07cb914da2e3da2f2139392"
+          }
+        },
+        {
+          "client_id": "148011500042-h33u1slu5m037hde0u7p16to8dm0bn1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQ-x-kHXzDB0a03GMhQ7O_gGyWQ7OSZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148011500042-h33u1slu5m037hde0u7p16to8dm0bn1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148011500042-80kcrmcpgbhi4j1kjigh26j8c78feek9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobidevlabs.iorderApp",
+                "app_store_id": "1482908182"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

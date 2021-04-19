@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="41.284" viewBox="0 0 64 41.284">
+  <g id="Group_1168" data-name="Group 1168" transform="translate(1683 -685.806)">
+    <text id="في_المطعم" data-name="في المطعم" transform="translate(-1651 720.09)" fill="#afafaf" font-size="12" font-family="DroidArabicKufi, Droid Arabic Kufi"><tspan x="-31.26" y="0">في المطعم</tspan></text>
+    <g id="Group_1167" data-name="Group 1167" transform="translate(20.942)">
+      <g id="Group_47" data-name="Group 47" transform="translate(-1688.942 685.806)">
+        <path id="Path_32" data-name="Path 32" d="M177.227,2021.521v.864h-2.241v2.241h-.864v-3.1Z" transform="translate(-174.122 -2021.521)" fill="#afafaf"/>
+      </g>
+      <g id="Group_48" data-name="Group 48" transform="translate(-1671.114 685.806)">
+        <path id="Path_33" data-name="Path 33" d="M223.46,2021.521v3.1H222.6v-2.241h-2.245v-.864Z" transform="translate(-220.352 -2021.521)" fill="#afafaf"/>
+      </g>
+      <g id="Group_49" data-name="Group 49" transform="translate(-1688.942 703.638)">
+        <path id="Path_34" data-name="Path 34" d="M177.227,2070v.864h-3.1v-3.1h.864V2070Z" transform="translate(-174.122 -2067.761)" fill="#afafaf"/>
+      </g>
+      <g id="Group_50" data-name="Group 50" transform="translate(-1671.114 703.638)">
+        <path id="Path_35" data-name="Path 35" d="M223.46,2067.761v3.1h-3.108V2070H222.6v-2.24Z" transform="translate(-220.352 -2067.761)" fill="#afafaf"/>
+      </g>
+      <g id="Group_51" data-name="Group 51" transform="translate(-1686.077 688.671)">
+        <path id="Path_36" data-name="Path 36" d="M181.552,2028.951v6.6h6.6v-6.6Zm5.735,5.739h-4.871v-4.875h4.871Z" transform="translate(-181.552 -2028.951)" fill="#afafaf"/>
+      </g>
+      <g id="Group_52" data-name="Group 52" transform="translate(-1677.473 697.275)">
+        <path id="Path_37" data-name="Path 37" d="M203.862,2051.262v6.6h6.6v-6.6ZM209.6,2057h-2v-2h2Zm0-2.866h-2.865V2057h-2.005v-4.871H209.6Z" transform="translate(-203.862 -2051.262)" fill="#afafaf"/>
+      </g>
+      <g id="Group_53" data-name="Group 53" transform="translate(-1686.077 697.275)">
+        <path id="Path_38" data-name="Path 38" d="M187.287,2051.887v2.244h-2v-2.869h-3.733v6.6h6.6v-5.978Zm0,5.11h-4.871v-4.871h2.005V2055h2.865Z" transform="translate(-181.552 -2051.262)" fill="#afafaf"/>
+      </g>
+      <g id="Group_54" data-name="Group 54" transform="translate(-1683.208 691.54)">
+        <rect id="Rectangle_341" data-name="Rectangle 341" width="0.864" height="0.864" fill="#afafaf"/>
+      </g>
+      <g id="Group_55" data-name="Group 55" transform="translate(-1677.473 688.671)">
+        <path id="Path_39" data-name="Path 39" d="M203.862,2028.951v3.726h.864v-2.862h2.005v2.869H209.6v2.005h-5.735v.864h6.6v-6.6Zm5.735,2.87h-2v-2.005h2Z" transform="translate(-203.862 -2028.951)" fill="#afafaf"/>
+      </g>
+    </g>
+  </g>
+</svg>
